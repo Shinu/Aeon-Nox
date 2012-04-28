@@ -136,7 +136,7 @@
           <width>640</width>
           <height>980</height>
           <texture>views/tripanel/poster_overlay.png</texture>
-          <aspectratio align="center" scalediffuse="false">scale</aspectratio>
+          <aspectratio align="center" scalediffuse="false">stretch</aspectratio>
         </control>
       </control>
       <control type="group" id="5203">
